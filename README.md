@@ -7,7 +7,9 @@
 
 1. 바탕화면에서 git bash 실행
 
-![연결1](C:\Users\windy\OneDrive\바탕 화면\study_python\창고\연결1.png)
+![연결1](C:\Users\windy\OneDrive\바탕 화면\study_python\README.assets\연결1.png)
+
+
 
 2. ```
    $ git init  
@@ -18,13 +20,16 @@
 
 3. vs code 로 열기 및 풀하기
 
-   ![연결2](C:\Users\windy\OneDrive\바탕 화면\study_python\창고\연결2.png)
+![연결2](C:\Users\windy\OneDrive\바탕 화면\study_python\README.assets\연결2.png)
+
+
 
 
 
 4. 각자 푼 코드를 해당날짜 파일에 올리기
 
-   ![연결3.ㅔㅜㅎ](C:\Users\windy\OneDrive\바탕 화면\study_python\창고\연결3.ㅔㅜㅎ.png)
+
+![연결3.ㅔㅜㅎ](C:\Users\windy\OneDrive\바탕 화면\study_python\README.assets\연결3.ㅔㅜㅎ.png)
 
 
 
