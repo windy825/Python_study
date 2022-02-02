@@ -6,10 +6,12 @@
 - **깃 연결하기**
 
 1. 바탕화면에서 git bash 실행
+
 ![1](https://user-images.githubusercontent.com/89068148/151975386-1ff7b054-d20d-4b3a-a2ad-9b5a8a626c0e.png)
 
 
-2. ```
+2. 
+   ```
    $ git init  
    $ git clone https://github.com/windy825/study_python.git
    ```
