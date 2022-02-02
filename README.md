@@ -48,3 +48,4 @@
 
 
 - 코드를 보다가 궁금한 점이나, 스터디때 해결못한 것들은 카톡방을 통해 문의하기
+- https://docs.python.org/ko/3/tutorial/index.html 파이썬 docs를 항상 가까이 
