@@ -23,3 +23,15 @@
 
 - **달팽이 숫자** : 까다롭지만, i 와 j를 이용한 인덱스 조작으로 접근해보세요!
 -  **Base Decoder**  : `zfill()`  or  `rjust()` 를 이용해보세요!
+
+
+
+**다 하신분들은 가로, 세로가 아닌 대각선 탐색을 시도해보세요!  뇌 근육이 짜릿!**
+
+![2sadasdad2](https://user-images.githubusercontent.com/89068148/153606242-4241c467-9122-4a85-af65-c24e54417edc.png)
+
+
+
+---
+
+*end*
