@@ -1,6 +1,6 @@
 # study_python
 
-- 추가문제 안내는 디스코드의 채팅채널 중 '연습문제'에서 확인하세요! [연습문제 보러가기](https://discord.gg/acvEA9Vd8y)
+- 문제진도 및 연습은 백준 그룹을 참조하세요! [백준 스터디 그룹 출발!](https://www.acmicpc.net/group/13776)
 
 ### 진도 (팀 공통)
 
