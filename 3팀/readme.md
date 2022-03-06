@@ -1,4 +1,14 @@
-## ~03/05 범위 ( swea )
+## D2 이후 D3 시작 범위 (SWEA)
+
+![제목 없음](https://user-images.githubusercontent.com/89068148/156912339-b95e5050-84a3-46c4-ba78-83d1102f3595.png)
+
+
+
+
+
+
+
+## ~03/05 범위 (SWEA)
 
 
 
