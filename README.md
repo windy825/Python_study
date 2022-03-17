@@ -9,7 +9,7 @@
 | **3 / 26 토** | **3 / 26 토** | 완전검색 (learn - AD) |  3,4 차시  | [1,2,3 팀 / 완전검색 (learn - AD)](https://www.acmicpc.net/group/workbook/view/13776/43157) |
 | **3 / 24 목** | **3 / 23 수** |        큐 도전        |     -      | [1,2,3팀 / 큐 도전](https://www.acmicpc.net/group/workbook/view/13776/43156) |
 | **3 / 22 화** | **3 / 21 월** |        큐 실전        |     -      | [1,2,3 팀 / 큐 실전](https://www.acmicpc.net/group/workbook/view/13776/43155) |
-| **3 / 19 토** | **3 / 19 토** |   Tree (learn - IM)   |  8,9 차시  | [추가문제 / 트리](https://www.acmicpc.net/group/workbook/view/13776/43260) |
+| **3 / 19 토** | **3 / 19 토** |   Tree (learn - IM)   |  8,9 차시  | [1,2,3 팀 / 트리 연습](https://www.acmicpc.net/group/workbook/view/13776/43260) |
 | **3 / 17 목** | **3 / 16 수** |   Tree (learn - IM)   |  6,7 차시  |                              -                               |
 
 <br>
