@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=Study_Python 월간 일정&fontSize=35)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=3월_Study_Python&fontSize=35)
 
 <br>
 
