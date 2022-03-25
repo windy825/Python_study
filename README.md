@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=Study_Python\s팀\s공통&fontSize=35)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=스터디_일정&fontSize=35)
 
 <br>
 
