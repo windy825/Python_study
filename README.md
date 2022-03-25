@@ -1,16 +1,23 @@
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=3월_Study_Python&fontSize=35)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=Study_Python 팀 공통 &fontSize=35)
 
 <br>
 
-|    1, 2 팀    |      3팀      |         제 목         |    SWEA    |                         백 준 문제집                         |
-| :-----------: | :-----------: | :-------------------: | :--------: | :----------------------------------------------------------: |
-| **3 / 29 화** | **3 / 30 수** |  그리디 (learn - AD)  | 6,7,8 차시 |                             미정                             |
-| **3 / 27 일** | **3 / 28 월** |    브루트포스 도전    |     -      | [1,2,3 팀 / 브루트포스 도전](https://www.acmicpc.net/group/workbook/view/13776/43158) |
-| **3 / 26 토** | **3 / 26 토** | 완전검색 (learn - AD) |  3,4 차시  | [1,2,3 팀 / 완전검색 (learn - AD)](https://www.acmicpc.net/group/workbook/view/13776/43157) |
-| **3 / 24 목** | **3 / 23 수** |        큐 도전        |     -      | [1,2,3팀 / 큐 도전](https://www.acmicpc.net/group/workbook/view/13776/43156) |
-| **3 / 22 화** | **3 / 21 월** |        큐 실전        |     -      | [1,2,3 팀 / 큐 실전](https://www.acmicpc.net/group/workbook/view/13776/43155) |
-| **3 / 19 토** | **3 / 19 토** |   Tree (learn - IM)   |  8,9 차시  | [1,2,3 팀 / 트리 연습](https://www.acmicpc.net/group/workbook/view/13776/43260) |
-| **3 / 17 목** | **3 / 16 수** |   Tree (learn - IM)   |  6,7 차시  |                              -                               |
+|    1, 2 팀    |      3팀      |         제 목         |   SWEA   |                         백 준 문제집                         |
+| :-----------: | :-----------: | :-------------------: | :------: | :----------------------------------------------------------: |
+| **4 / 10 일** | **4 / 13 수** |  그래프 탐색 도전 2   |    -     | [그래프 탐색 도전 2](https://www.acmicpc.net/group/workbook/view/13776/43690) |
+| **4 / 9 토**  | **4 / 11 월** |  그래프 탐색 도전 1   |    -     | [그래프 탐색 도전 1](https://www.acmicpc.net/group/workbook/view/13776/43689) |
+| **4 / 7 목**  | **4 / 9 토**  |  그래프 탐색 응용 2   |    -     | [그래프 탐색 응용 2](https://www.acmicpc.net/group/workbook/view/13776/43688) |
+| **4 / 5 화**  | **4 / 6 수**  |   그래프 탐색 응용    |    -     | [그래프 탐색 응용](https://www.acmicpc.net/group/workbook/view/13776/43687) |
+| **4 / 3 일**  | **4 / 4 월**  |   그래프 탐색 연습    |    -     | [그래프 탐색 연습](https://www.acmicpc.net/group/workbook/view/13776/43686) |
+| **4 / 2 토**  | **4 / 2 토**  |      그리디 도전      |    -     | [1,2,3팀 공통 / 그리디 도전 (1)](https://www.acmicpc.net/group/workbook/view/13776/43645) |
+| **3 / 31 목** | **3 / 30 수** |      그리디 연습      |    -     | [1,2,3팀 공통 / 그리디 연습](https://www.acmicpc.net/group/workbook/view/13776/43643) |
+| **3 / 29 화** | **3 / 28 월** |     완전검색 도전     |    -     | [1,2,3 팀 / 브루트포스 도전](https://www.acmicpc.net/group/workbook/view/13776/43158) |
+| **3 / 27 일** |       -       |     월말평가 대비     |    -     |                              -                               |
+| **3 / 26 토** | **3 / 26 토** | 완전검색 (learn - AD) | 3,4 차시 | [1,2,3 팀 / 완전검색 (learn - AD)](https://www.acmicpc.net/group/workbook/view/13776/43157) |
+| **3 / 24 목** | **3 / 23 수** |        큐 도전        |    -     | [1,2,3팀 / 큐 도전](https://www.acmicpc.net/group/workbook/view/13776/43156) |
+| **3 / 22 화** | **3 / 21 월** |        큐 실전        |    -     | [1,2,3 팀 / 큐 실전](https://www.acmicpc.net/group/workbook/view/13776/43155) |
+| **3 / 19 토** | **3 / 19 토** |   Tree (learn - IM)   | 8,9 차시 | [1,2,3 팀 / 트리 연습](https://www.acmicpc.net/group/workbook/view/13776/43260) |
+| **3 / 17 목** | **3 / 16 수** |   Tree (learn - IM)   | 6,7 차시 |                              -                               |
 
 <br>
 
