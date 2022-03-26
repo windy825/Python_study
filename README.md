@@ -13,7 +13,7 @@
 | **3 / 31 목** | **3 / 30 수** |      그리디 연습      |    -     | [1,2,3팀 공통 / 그리디 연습](https://www.acmicpc.net/group/workbook/view/13776/43643) | swea 문제 제외(본 수업) |
 | **3 / 29 화** | **3 / 28 월** |     완전검색 도전     |    -     | [1,2,3 팀 / 브루트포스 도전](https://www.acmicpc.net/group/workbook/view/13776/43158) |                         |
 | **3 / 27 일** |       -       |     월말평가 대비     |    -     |                              -                               |                         |
-| **3 / 26 토** | **3 / 26 토** | 완전검색 (learn - AD) | 3,4 차시 | [1,2,3 팀 / 완전검색 (learn - AD)](https://www.acmicpc.net/group/workbook/view/13776/43157) | swea 문제 제외(본 수업) |
+| **3 / 26 토** | **3 / 26 토** | 완전검색 (learn - AD) |    -     | [1,2,3 팀 / 완전검색 (learn - AD)](https://www.acmicpc.net/group/workbook/view/13776/43157) | swea 문제 제외(본 수업) |
 | **3 / 24 목** | **3 / 23 수** |        큐 도전        |    -     | [1,2,3팀 / 큐 도전](https://www.acmicpc.net/group/workbook/view/13776/43156) |                         |
 | **3 / 22 화** | **3 / 21 월** |        큐 실전        |    -     | [1,2,3 팀 / 큐 실전](https://www.acmicpc.net/group/workbook/view/13776/43155) |                         |
 | **3 / 19 토** | **3 / 19 토** |   Tree (learn - IM)   | 8,9 차시 | [1,2,3 팀 / 트리 연습](https://www.acmicpc.net/group/workbook/view/13776/43260) |                         |
