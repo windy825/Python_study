@@ -9,7 +9,7 @@
 | **4 / 7 목**  | **4 / 9 토**  |  그래프 탐색 응용 2   |    -     | [그래프 탐색 응용 2](https://www.acmicpc.net/group/workbook/view/13776/43688) |                         |
 | **4 / 5 화**  | **4 / 6 수**  |   그래프 탐색 응용    |    -     | [그래프 탐색 응용](https://www.acmicpc.net/group/workbook/view/13776/43687) |                         |
 | **4 / 3 일**  | **4 / 4 월**  |   그래프 탐색 연습    |    -     | [그래프 탐색 연습](https://www.acmicpc.net/group/workbook/view/13776/43686) |                         |
-| **4 / 2 토**  | **4 / 2 토**  |      그리디 도전      |    -     | [1,2,3팀 공통 / 그리디 도전 (1)](https://www.acmicpc.net/group/workbook/view/13776/43645) |                         |
+| **4 / 2 토**  | **4 / 2 토**  |      그리디 응용      |    -     | [ 추가문제 / 그리디 응용](https://www.acmicpc.net/group/workbook/view/13776/43644) |                         |
 | **3 / 31 목** | **3 / 30 수** |      그리디 연습      |    -     | [1,2,3팀 공통 / 그리디 연습](https://www.acmicpc.net/group/workbook/view/13776/43643) | swea 문제 제외(본 수업) |
 | **3 / 29 화** | **3 / 28 월** |     완전검색 도전     |    -     | [1,2,3 팀 / 완전검색 도전](https://www.acmicpc.net/group/workbook/view/13776/43158) |                         |
 | **3 / 27 일** |       -       |     월말평가 대비     |    -     |                              -                               |                         |
