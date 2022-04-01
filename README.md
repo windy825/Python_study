@@ -4,12 +4,15 @@
 
 |    1, 2 팀    |      3팀      |         제 목         |   SWEA   |                         백 준 문제집                         |          비 고          |
 | :-----------: | :-----------: | :-------------------: | :------: | :----------------------------------------------------------: | :---------------------: |
-| **4 / 10 일** | **4 / 13 수** |  그래프 탐색 도전 2   |    -     | [그래프 탐색 도전 2](https://www.acmicpc.net/group/workbook/view/13776/43690) |                         |
-| **4 / 9 토**  | **4 / 11 월** |  그래프 탐색 도전 1   |    -     | [그래프 탐색 도전 1](https://www.acmicpc.net/group/workbook/view/13776/43689) |                         |
-| **4 / 7 목**  | **4 / 9 토**  |  그래프 탐색 응용 2   |    -     | [그래프 탐색 응용 2](https://www.acmicpc.net/group/workbook/view/13776/43688) |                         |
-| **4 / 5 화**  | **4 / 6 수**  |   그래프 탐색 응용    |    -     | [그래프 탐색 응용](https://www.acmicpc.net/group/workbook/view/13776/43687) |                         |
-| **4 / 3 일**  | **4 / 4 월**  |   그래프 탐색 연습    |    -     | [그래프 탐색 연습](https://www.acmicpc.net/group/workbook/view/13776/43686) |                         |
-| **4 / 2 토**  | **4 / 2 토**  |      그리디 응용      |    -     | [ 추가문제 / 그리디 응용](https://www.acmicpc.net/group/workbook/view/13776/43644) |                         |
+|  **4/16 토**  |  **4/20 수**  |  그래프 탐색 도전 2   |    -     | [그래프 탐색 도전 2](https://www.acmicpc.net/group/workbook/view/13776/43690) |                         |
+|  **4/14 목**  |  **4/18 월**  |  그래프 탐색 도전 1   |    -     | [그래프 탐색 도전 1](https://www.acmicpc.net/group/workbook/view/13776/43689) |                         |
+|  **4/12 화**  |  **4/16 토**  |      그리디 응용      |    -     | [ 추가문제 / 그리디 응용](https://www.acmicpc.net/group/workbook/view/13776/43644) |   미뤄둔 그리디 처리    |
+| **4 / 10 일** | **4 / 13 수** |  그래프 탐색 응용 2   |    -     | [그래프 탐색 응용 2](https://www.acmicpc.net/group/workbook/view/13776/43688) |                         |
+| **4 / 9 토**  | **4 / 11 월** |   그래프 탐색 응용    |    -     | [그래프 탐색 응용](https://www.acmicpc.net/group/workbook/view/13776/43687) |                         |
+| **4 / 7 목**  | **4 / 9 토**  |   그래프 탐색 연습    |    -     | [그래프 탐색 연습](https://www.acmicpc.net/group/workbook/view/13776/43686) |                         |
+| **4 / 5 화**  | **4 / 6 수**  |     완전탐색+순열     |    -     | [⚾](https://www.acmicpc.net/problem/17281)  [색종이 붙이기](https://www.acmicpc.net/problem/17136) |          기출           |
+| **4 / 3 일**  | **4 / 4 월**  |     완전탐색+순열     |    -     | [부분수열의 합](https://www.acmicpc.net/problem/1182) [암호 만들기](https://www.acmicpc.net/problem/1759) [소문난 칠공주](https://www.acmicpc.net/problem/1941) |     미리 풀기 권장      |
+| **4 / 2 토**  | **4 / 2 토**  |     완전탐색+순열     |    -     | [모든 순열](https://www.acmicpc.net/problem/10974) [단어 수학](https://www.acmicpc.net/problem/1339) |                         |
 | **3 / 31 목** | **3 / 30 수** |      그리디 연습      |    -     | [1,2,3팀 공통 / 그리디 연습](https://www.acmicpc.net/group/workbook/view/13776/43643) | swea 문제 제외(본 수업) |
 | **3 / 29 화** | **3 / 28 월** |     완전검색 도전     |    -     | [1,2,3 팀 / 완전검색 도전](https://www.acmicpc.net/group/workbook/view/13776/43158) |                         |
 | **3 / 27 일** |       -       |     월말평가 대비     |    -     |                              -                               |                         |
