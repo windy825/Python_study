@@ -10,7 +10,7 @@
 | **4 / 10 일** | **4 / 13 수** |  그래프 탐색 응용 2   |    -     | [그래프 탐색 응용 2](https://www.acmicpc.net/group/workbook/view/13776/43688) |                         |
 | **4 / 9 토**  | **4 / 11 월** |   그래프 탐색 응용    |    -     | [그래프 탐색 응용](https://www.acmicpc.net/group/workbook/view/13776/43687) |                         |
 | **4 / 7 목**  | **4 / 9 토**  |   그래프 탐색 연습    |    -     | [그래프 탐색 연습](https://www.acmicpc.net/group/workbook/view/13776/43686) |                         |
-| **4 / 5 화**  | **4 / 6 수**  |     완전탐색+순열     |    -     | [⚾](https://www.acmicpc.net/problem/17281)  [색종이 붙이기](https://www.acmicpc.net/problem/17136) |          기출           |
+| **4 / 5 화**  | **4 / 6 수**  |     완전탐색+순열     |    -     | [⚾](https://www.acmicpc.net/problem/17281)  [색종이 붙이기](https://www.acmicpc.net/problem/17136) |         ⚾ : pypy 쓰세요            |
 | **4 / 3 일**  | **4 / 4 월**  |     완전탐색+순열     |    -     | [부분수열의 합](https://www.acmicpc.net/problem/1182) [암호 만들기](https://www.acmicpc.net/problem/1759) [소문난 칠공주](https://www.acmicpc.net/problem/1941) |     미리 풀기 권장      |
 | **4 / 2 토**  | **4 / 2 토**  |     완전탐색+순열     |    -     | [모든 순열](https://www.acmicpc.net/problem/10974) [단어 수학](https://www.acmicpc.net/problem/1339) |                         |
 | **3 / 31 목** | **3 / 30 수** |      그리디 연습      |    -     | [1,2,3팀 공통 / 그리디 연습](https://www.acmicpc.net/group/workbook/view/13776/43643) | swea 문제 제외(본 수업) |
