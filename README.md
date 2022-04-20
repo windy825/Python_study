@@ -1,3 +1,6 @@
+ # 이 공간은 폐지 되었습니다. 대신 새로운 버전의 스터디가 시작되었습니다.
+ 
+ 
  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=스터디_일정&fontSize=35)
 
 <br>
